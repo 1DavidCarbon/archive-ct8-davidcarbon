@@ -5,9 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
->
+	>
 
 <channel>
 	<title>DavidCarbon</title>
@@ -24,13 +22,13 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 	<generator>https://wordpress.org/?v=5.1</generator>
 
 <image>
-	<url>https://i1.wp.com/davidcarbon.ct8.pl/wp-content/uploads/2018/03/cropped-DavidCarbon-Profile-Picture-Remaster.png?fit=32%2C32&#038;ssl=1</url>
+	<url>/wp-content/uploads/2018/03/cropped-DavidCarbon-Profile-Picture-Remaster-32x32.png</url>
 	<title>DavidCarbon</title>
 	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">146941776</site>	<item>
+	<item>
 		<title>Welcome to the Gutenberg Editor</title>
 		<link>/2018/08/26/welcome-to-the-gutenberg-editor/</link>
 				<comments>/2018/08/26/welcome-to-the-gutenberg-editor/#respond</comments>
@@ -44,7 +42,7 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 ]]></description>
 						<wfw:commentRss>/2018/08/26/welcome-to-the-gutenberg-editor/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-						<post-id xmlns="com-wordpress:feed-additions:1">743</post-id>	</item>
+							</item>
 		<item>
 		<title>My new profile Image. Now remastered.</title>
 		<link>/2018/04/25/my-new-profile-image-now-remastered/</link>
@@ -59,7 +57,7 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 ]]></description>
 						<wfw:commentRss>/2018/04/25/my-new-profile-image-now-remastered/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-						<post-id xmlns="com-wordpress:feed-additions:1">554</post-id>	</item>
+							</item>
 		<item>
 		<title>Copyright Strike Take Down Break Down</title>
 		<link>/2018/04/16/copyright-strike-take-down-break-down/</link>
@@ -74,7 +72,7 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 ]]></description>
 						<wfw:commentRss>/2018/04/16/copyright-strike-take-down-break-down/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-						<post-id xmlns="com-wordpress:feed-additions:1">359</post-id>	</item>
+							</item>
 		<item>
 		<title>Megalo Box ED/Ending Song &#8220;Creditless&#8221;</title>
 		<link>/2018/04/15/megalo-box-ending-song-creditless/</link>
@@ -90,7 +88,7 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 ]]></description>
 						<wfw:commentRss>/2018/04/15/megalo-box-ending-song-creditless/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-						<post-id xmlns="com-wordpress:feed-additions:1">341</post-id>	</item>
+							</item>
 		<item>
 		<title>The Anime Update #1</title>
 		<link>/2018/04/09/the-anime-update-1/</link>
@@ -106,7 +104,7 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 ]]></description>
 						<wfw:commentRss>/2018/04/09/the-anime-update-1/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-						<post-id xmlns="com-wordpress:feed-additions:1">328</post-id>	</item>
+							</item>
 		<item>
 		<title>Nano RIPE &#8211; Azalea (Riff Racer)</title>
 		<link>/2018/03/08/nano-ripe-azalea-riff-racer/</link>
@@ -122,7 +120,7 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 ]]></description>
 						<wfw:commentRss>/2018/03/08/nano-ripe-azalea-riff-racer/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-						<post-id xmlns="com-wordpress:feed-additions:1">110</post-id>	</item>
+							</item>
 		<item>
 		<title>David&#8217;s Book Talk (Rare Video)</title>
 		<link>/2018/01/28/davids-book-talk-rare-video/</link>
@@ -138,7 +136,7 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 ]]></description>
 						<wfw:commentRss>/2018/01/28/davids-book-talk-rare-video/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-						<post-id xmlns="com-wordpress:feed-additions:1">120</post-id>	</item>
+							</item>
 		<item>
 		<title>Hide &#038; Seek In CSGO (The Forgotten Video)</title>
 		<link>/2017/12/21/hide-seek-in-csgo-the-forgotten-video/</link>
@@ -154,7 +152,7 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 ]]></description>
 						<wfw:commentRss>/2017/12/21/hide-seek-in-csgo-the-forgotten-video/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-						<post-id xmlns="com-wordpress:feed-additions:1">135</post-id>	</item>
+							</item>
 		<item>
 		<title>CS:GO Competitive #4! Such an Odd Video Eccks Dee</title>
 		<link>/2017/07/14/csgo-competitive-4-such-an-odd-video-eccks-dee/</link>
@@ -169,7 +167,7 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 ]]></description>
 						<wfw:commentRss>/2017/07/14/csgo-competitive-4-such-an-odd-video-eccks-dee/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-						<post-id xmlns="com-wordpress:feed-additions:1">139</post-id>	</item>
+							</item>
 		<item>
 		<title>League of Legends w/ Nice Apple &#038; TheBiGBung: What a Show LOL</title>
 		<link>/2017/05/27/league-of-legends-w-nice-apple-thebigbung-what-a-show-lol/</link>
@@ -185,6 +183,6 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 ]]></description>
 						<wfw:commentRss>/2017/05/27/league-of-legends-w-nice-apple-thebigbung-what-a-show-lol/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-						<post-id xmlns="com-wordpress:feed-additions:1">144</post-id>	</item>
+							</item>
 	</channel>
 </rss>
